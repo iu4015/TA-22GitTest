@@ -1,1 +1,1 @@
-# TA-22GitTest
+# TA-22 test repository
